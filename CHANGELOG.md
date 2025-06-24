@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.0](https://github.com/FrederickJBednar/ebc-github-unleashed-sample-app/compare/v0.0.2...v0.1.0) (2025-06-24)
+
+
+### Features
+
+* added personal greeting ([7b958e4](https://github.com/FrederickJBednar/ebc-github-unleashed-sample-app/commit/7b958e479f2c6e3c64b0c4c615a66dc636894ea9))
+
 ## [0.0.2](https://github.com/FrederickJBednar/ebc-github-unleashed-sample-app/compare/v0.0.1...v0.0.2) (2025-06-24)
 
 
