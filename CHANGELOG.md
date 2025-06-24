@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.0.2](https://github.com/FrederickJBednar/ebc-github-unleashed-sample-app/compare/v0.0.1...v0.0.2) (2025-06-24)
+
+
+### Bug Fixes
+
+* **deps:** bump org.springframework.boot:spring-boot-starter-parent ([742e656](https://github.com/FrederickJBednar/ebc-github-unleashed-sample-app/commit/742e6560582ff6ffab23f97b8f78dcf8b11c7b0a))
+* Update index.html ([47038ea](https://github.com/FrederickJBednar/ebc-github-unleashed-sample-app/commit/47038eaee8f6aff24e58bd8da2aa0dae9d8e2618))
+
 ## 0.0.1 (2025-06-24)
 
 
